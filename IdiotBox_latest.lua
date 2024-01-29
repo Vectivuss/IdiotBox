@@ -738,7 +738,6 @@ do
 end
 
 require("big")
-require("bsendpacket")
 require("chatclear")
 
 global.bSendPacket = true
